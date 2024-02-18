@@ -14,6 +14,9 @@ const Hero = () => {
           <img src="/scroll.png" alt="" />
         </div>
       </div>
+      <div className="slidingTextContainer">
+        Love Coding Building Projects
+      </div>
       <div className="imagecontainer">
         <img src="/hero.png" alt="" />
       </div>
